@@ -1,1 +1,1 @@
-# BunGeeGum-News-app
+# bungeegum-news-app
